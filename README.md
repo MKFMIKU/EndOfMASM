@@ -13,3 +13,6 @@
 
 2. [A+B](https://raw.githubusercontent.com/MKFMIKU/EndOfMASM/master/ADD.EXE) -> [Add.asm](https://github.com/MKFMIKU/EndOfMASM/blob/master/Add.asm)
     获取键盘输入的两个数字然后求和
+    
+3. [Max](https://raw.githubusercontent.com/MKFMIKU/EndOfMASM/master/MAX.EXE) -> [Add.asm](https://github.com/MKFMIKU/EndOfMASM/blob/master/Max.asm)
+    求一个段里的最大数
