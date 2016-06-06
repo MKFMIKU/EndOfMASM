@@ -7,6 +7,9 @@
 
 ***
 
-1. Hello World -> [Hello.asm](https://github.com/MKFMIKU/EndOfMASM/blob/master/Hello.asm)
+1. [Hello World](https://raw.githubusercontent.com/MKFMIKU/EndOfMASM/master/HELLO.EXE) -> [Hello.asm](https://github.com/MKFMIKU/EndOfMASM/blob/master/Hello.asm)
+    显示Hello World
 
 
+2. [A+B](https://raw.githubusercontent.com/MKFMIKU/EndOfMASM/master/ADD.EXE) -> [Add.asm](https://github.com/MKFMIKU/EndOfMASM/blob/master/Add.asm)
+    获取键盘输入的两个数字然后求和
