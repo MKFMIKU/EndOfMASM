@@ -22,3 +22,6 @@
     
 5. [Sql](https://raw.githubusercontent.com/MKFMIKU/EndOfMASM/master/SQL.EXE) -> [Sql.asm](https://github.com/MKFMIKU/EndOfMASM/blob/master/Sql.asm)
     查表求平方值
+    
+6. [Ascii](https://raw.githubusercontent.com/MKFMIKU/EndOfMASM/master/ASCII.EXE) -> [Ascii.asm](https://github.com/MKFMIKU/EndOfMASM/blob/master/Ascii.asm)
+    将一字节压缩型BCD码转换为二个ASCII码
