@@ -31,3 +31,6 @@
     
 8. [Find](https://raw.githubusercontent.com/MKFMIKU/EndOfMASM/master/FIND.EXE) -> [Find.asm](https://github.com/MKFMIKU/EndOfMASM/blob/master/Find.asm)
     查找字符串中 $ 的位置
+    
+9. [Input](https://raw.githubusercontent.com/MKFMIKU/EndOfMASM/master/INPUT.EXE) -> [Input.asm](https://github.com/MKFMIKU/EndOfMASM/blob/master/Input.asm)
+    要求输入一个数字和字母
