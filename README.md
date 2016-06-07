@@ -25,3 +25,6 @@
     
 6. [Ascii](https://raw.githubusercontent.com/MKFMIKU/EndOfMASM/master/ASCII.EXE) -> [Ascii.asm](https://github.com/MKFMIKU/EndOfMASM/blob/master/Ascii.asm)
     将一字节压缩型BCD码转换为二个ASCII码
+    
+7. [Bigger](https://raw.githubusercontent.com/MKFMIKU/EndOfMASM/master/BIGGER.EXE) -> [Bigger.asm](https://github.com/MKFMIKU/EndOfMASM/blob/master/Bigger.asm)
+    判断 A B 的大小
