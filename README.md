@@ -33,4 +33,7 @@
     查找字符串中 $ 的位置
     
 9. [Input](https://raw.githubusercontent.com/MKFMIKU/EndOfMASM/master/INPUT.EXE) -> [Input.asm](https://github.com/MKFMIKU/EndOfMASM/blob/master/Input.asm)
-    要求输入一个数字和字母
+    查找字符串中 $ 的位置
+    
+10. [Fib](https://raw.githubusercontent.com/MKFMIKU/EndOfMASM/master/FIB.EXE) -> [Fib.asm](https://github.com/MKFMIKU/EndOfMASM/blob/master/Fib.asm)
+    前20个斐波那契
