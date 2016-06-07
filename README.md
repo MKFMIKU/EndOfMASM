@@ -29,5 +29,5 @@
 7. [Bigger](https://raw.githubusercontent.com/MKFMIKU/EndOfMASM/master/BIGGER.EXE) -> [Bigger.asm](https://github.com/MKFMIKU/EndOfMASM/blob/master/Bigger.asm)
     判断 A B 的大小
     
-8. [Find](https://raw.githubusercontent.com/MKFMIKU/EndOfMASM/master/FIND.EXE) -> [Finder.asm](https://github.com/MKFMIKU/EndOfMASM/blob/master/Finder.asm)
+8. [Find](https://raw.githubusercontent.com/MKFMIKU/EndOfMASM/master/FIND.EXE) -> [Find.asm](https://github.com/MKFMIKU/EndOfMASM/blob/master/Find.asm)
     查找字符串中 $ 的位置
